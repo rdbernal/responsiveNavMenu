@@ -1,2 +1,2 @@
 # responsiveNavMenu
-Responsive nav menu using media query
+Responsive nav bar with burger menu using media query
